@@ -15,10 +15,17 @@ Here are some ideas to get you started:
 # ⚡ Fun fact: ...
 -->
 
-# 📊 About my GitHub:
+# 📊 About my GitHub Accounts:
+[![GitHub](https://img.shields.io/badge/GitHub%20-%20UO271245-blue)](https://github.com/UO271245) 
+[![GitHub](https://img.shields.io/badge/GitHub%20-%20SgtKilopolo-blue)](https://github.com/SgtKilopolo) 
+[![GitHub](https://img.shields.io/badge/GitHub%20-%20SgtNaboloco-blue)](https://github.com/SgtNaboloco) 
+
+
+# 🌱 Other Accounts:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-diaz-rubio/) 
 
 
+# 📫 Stats:
 ![](https://my-vercel-api-per6.vercel.app/api?username=Kilopolo&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kilopolo&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://my-vercel-api-per6.vercel.app/api/top-langs/?username=Kilopolo&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
