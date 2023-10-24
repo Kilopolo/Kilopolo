@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I have a solid background in technology, including a Higher Level Training Cycle in Multiplatform Application Development and a Professional Certificate in Mobile Phone Repair. In addition, I have experience in computing and graphic arts through a Medium Level Training Cycle in Prepress in Graphic Arts. My training in Software Engineering has consolidated my technical knowledge. Throughout my career I have developed multiplatform applications, repaired computer equipment and applied my knowledge in graphic arts. I am known for my ability to solve technological problems efficiently and excel in adapting to changing environments, making me a valuable asset in the field of technology and software development.
 <!--
 **Kilopolo/Kilopolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
