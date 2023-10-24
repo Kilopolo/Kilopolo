@@ -1,6 +1,11 @@
-### Hi there 👋
+### ¡Hola! 👋
 
-I have a solid background in technology, including a Higher Level Training Cycle in Multiplatform Application Development and a Professional Certificate in Mobile Phone Repair. In addition, I have experience in computing and graphic arts through a Medium Level Training Cycle in Prepress in Graphic Arts. My training in Software Engineering has consolidated my technical knowledge. Throughout my career I have developed multiplatform applications, repaired computer equipment and applied my knowledge in graphic arts. I am known for my ability to solve technological problems efficiently and excel in adapting to changing environments, making me a valuable asset in the field of technology and software development.
+**Grado:** Ingeniería de Software
+
+**Universidad:** Universidad de Oviedo
+
+Tengo una sólida formación en tecnología, que incluye un Ciclo de Formación de Grado Superior en Desarrollo de Aplicaciones Multiplataforma y un Certificado Profesional en Reparación de Teléfonos Móviles. Además, cuento con experiencia en informática y artes gráficas a través de un Ciclo de Formación de Grado Medio en Preimpresión en Artes Gráficas. Mi formación en Ingeniería de Software ha consolidado mis conocimientos técnicos. A lo largo de mi carrera, he desarrollado aplicaciones multiplataforma, reparado equipos informáticos y aplicado mis conocimientos en artes gráficas. Me destacan mi capacidad para resolver problemas tecnológicos de manera eficiente y mi habilidad para adaptarme a entornos cambiantes, lo que me convierte en un valioso activo en el campo de la tecnología y el desarrollo de software.
+
 <!--
 **Kilopolo/Kilopolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
