@@ -8,7 +8,7 @@
 
 **Universidad:** Universidad de Oviedo
 
-Tengo una sólida formación en tecnología, que incluye un Ciclo de Formación de Grado Superior en Desarrollo de Aplicaciones Multiplataforma y un Certificado Profesional en Reparación de Teléfonos Móviles. Además, cuento con experiencia en informática y artes gráficas a través de un Ciclo de Formación de Grado Medio en Preimpresión en Artes Gráficas. Mi formación en Ingeniería de Software ha consolidado mis conocimientos técnicos. A lo largo de mi carrera, he desarrollado aplicaciones multiplataforma, reparado equipos informáticos y aplicado mis conocimientos en artes gráficas. Me destacan mi capacidad para resolver problemas tecnológicos de manera eficiente y mi habilidad para adaptarme a entornos cambiantes, lo que me convierte en un valioso activo en el campo de la tecnología y el desarrollo de software.
+Mi formación en Ingeniería de Software ha consolidado mis conocimientos técnicos. Tengo una sólida formación en tecnología, que incluye un Ciclo de Formación de Grado Superior en Desarrollo de Aplicaciones Multiplataforma y un Certificado Profesional en Reparación de Teléfonos Móviles. A lo largo de mi carrera, he desarrollado aplicaciones multiplataforma, reparado equipos informáticos y aplicado mis conocimientos en artes gráficas. Además, cuento con experiencia en informática y artes gráficas a través de un Ciclo de Formación de Grado Medio en Preimpresión en Artes Gráficas. Me destacan mi capacidad para resolver problemas tecnológicos de manera eficiente y mi habilidad para adaptarme a entornos cambiantes, lo que me convierte en un valioso activo en el campo de la tecnología y el desarrollo de software.
 
 
 
